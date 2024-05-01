@@ -1,5 +1,5 @@
 beautifulsoup4==4.9.1
-certifi>=2020.6.20
+certifi>=2023.7.22
 colorama==0.4.4
 folium==0.11.0
 lxml==4.6.3
